@@ -2,7 +2,7 @@
 
 💻 Full-Stack Web Developer | 🎓 B.Tech CSE Graduate | 🌐 PHP · JavaScript · MySQL
 
----
+
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@
 - Passionate about **clean code, problem solving, and continuous learning**
 - Currently **open to Software Engineer opportunities** 🚀
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,7 @@
 **Tools & Platforms**
 - Git, GitHub, VS Code, XAMPP
 
----
+
 
 ## 📂 Featured Projects
 
