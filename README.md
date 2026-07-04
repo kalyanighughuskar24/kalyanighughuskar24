@@ -35,7 +35,7 @@ A full-stack PHP-based web platform with a dark luxury UI (glassmorphism design)
 - Implemented 100MB file upload feature and dynamic content sharing
 - Designed dark luxury UI with glassmorphism, animated backgrounds, and gold/cyan color scheme
 - **Tech:** PHP · MySQL · HTML · CSS · JavaScript
-- **Repo:** [github.com/kalyanighughuskar24/HeritechAI](https://github.com/kalyanighughuskar24/HeritechAI)
+- 🔗 **Live Demo:** [heritechai.infinityfreeapp.com](https://heritechai.infinityfreeapp.com)
 
 ### 🐄 PashuGyan – ML-based Livestock Breed Identification
 A full-stack platform for image-based livestock breed classification using ML models.
