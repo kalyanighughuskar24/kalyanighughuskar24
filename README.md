@@ -44,7 +44,7 @@ A full-stack platform for image-based livestock breed classification using ML mo
 - Displays breed name, confidence score, and detailed breed insights
 - **Live:** (https://pashugyan.vercel.app) [pashugyan.vercel.app]
 
----
+
 
 ## 💼 Experience
 
@@ -52,7 +52,7 @@ A full-stack platform for image-based livestock breed classification using ML mo
 - Built a full-stack heritage places promotion website (**HeritechAI**) using HTML, CSS, JavaScript, PHP & MySQL
 - Worked on UI design, backend integration, and database management
 
----
+
 
 ## 🏆 Achievements
 
@@ -60,7 +60,7 @@ A full-stack platform for image-based livestock breed classification using ML mo
 - 🥉 3rd Runner Up – SIH Internal Hackathon (2025) at G H Raisoni University.
 - 🥉 2nd Runner Up – SIH Internal Hackathon (2024) at G H Raisoni University.
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -69,6 +69,6 @@ A full-stack platform for image-based livestock breed classification using ML mo
 - 🐙 GitHub: [github.com/kalyanighughuskar24](https://github.com/kalyanighughuskar24/)
 - 🧩 LeetCode: [leetcode.com/u/Kalyanighughuskar](https://leetcode.com/u/Kalyanighughuskar/)
 
----
+
 
 *💡 Open to full-time Software Engineer roles — feel free to reach out!*
